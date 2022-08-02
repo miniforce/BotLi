@@ -1,4 +1,4 @@
-name: miniforce
+name: Deploy
 
 on:
   push:
